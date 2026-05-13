@@ -31,6 +31,9 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 
 ## Estrutura
 
+
+git config 
+
 ```
 .
 ├── README.md
@@ -42,7 +45,10 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 ├── aula_05/
 └── projeto_final/
 ```
+teste
+linha teste
 
 ## Autor
 
-Nome do aluno — [github.com/usuario](https://github.com/usuario)
+Anelise Barbosa Ferreira — [https://github.com/lisebarbo]
+
